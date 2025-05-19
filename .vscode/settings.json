@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "DatingApp.sln",
+    "omnisharp.sdkPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405"
+}
